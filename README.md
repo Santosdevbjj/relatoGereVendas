@@ -30,6 +30,7 @@ relatoGereVendas/
 
 
 ---
+```
 
 ⚡ Funcionalidades Implementadas
 
