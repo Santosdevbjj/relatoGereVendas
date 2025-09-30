@@ -1,0 +1,4 @@
+Instruções rápidas
+- Arquivo: /mnt/data/relatoGereVendas_deliverable/Dashboard.xlsx
+- Macros: /mnt/data/relatoGereVendas_deliverable/macros.bas (importar no VBA e salvar como .xlsm)
+- README: /mnt/data/relatoGereVendas_deliverable/README.md
