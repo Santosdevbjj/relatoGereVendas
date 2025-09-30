@@ -23,16 +23,16 @@ A base de dados utilizada é a amostra **Financial Sample** disponibilizada pela
 
 ```text
 relatoGereVendas/
-│── Dashboard.xlsm      # Arquivo Excel habilitado para macros (Dashboard interativo)
+│── Dashboard.xlsx     # Arquivo Excel habilitado para macros (Dashboard interativo)
 │── macros.bas          # Código VBA para navegação e alternância de visuais
-│── instructions.txt    # Guia rápido de uso
+│── instrucoes.txt    # Guia rápido de uso
 │── README.md           # Este documento
 
 
 ---
 ```
 
-⚡ Funcionalidades Implementadas
+⚡ **Funcionalidades Implementadas**
 
 Cards (KPIs):
 
@@ -43,7 +43,7 @@ Total de Lucro
 Média de Desconto
 
 
-Gráficos:
+**Gráficos:**
 
 Vendas por Segmento
 
@@ -52,7 +52,7 @@ Top Produtos por Lucro
 Evolução das Vendas por Mês
 
 
-Segmentadores (Slicers):
+**Segmentadores (Slicers):**
 
 Segmento
 
@@ -61,7 +61,7 @@ País
 Ano
 
 
-Botões de Navegação:
+**Botões de Navegação:**
 
 Alternar entre Página 1 (Visão Geral) e Página 2 (Detalhes)
 
@@ -72,7 +72,7 @@ Alternar visuais no mesmo gráfico (via macros)
 
 ---
 
-🛠️ Como Usar
+🛠️ **Como Usar**
 
 1. Baixe o arquivo Dashboard.xlsm.
 
@@ -93,7 +93,7 @@ Alternar visuais no mesmo gráfico (via macros)
 
 ---
 
-📸 Prints do Dashboard
+📸 **Prints do Dashboard**
 
 
 
@@ -118,7 +118,7 @@ Alternar visuais no mesmo gráfico (via macros)
 
 ---
 
-🧑‍💻 Tecnologias Utilizadas
+🧑‍💻 **Tecnologias Utilizadas**
 
 Excel (XLSM com VBA)
 
@@ -134,7 +134,7 @@ VBA para alternância de visuais
 
 ---
 
-🚀 Próximos Passos
+🚀 **Próximos Passos**
 
 Migrar o relatório para Power BI Desktop (versão original do desafio).
 
