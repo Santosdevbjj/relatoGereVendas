@@ -1,4 +1,4 @@
-## Criando Um Relatório Gerencial de Vendas com Power BI.
+## Criando Um Relatório Gerencial de Vendas com Power BI. 
 
 ![KlabinBiExcel003](https://github.com/user-attachments/assets/13395871-7fb0-4f11-96e2-b3c4cc3c7c1e)
 
