@@ -4,8 +4,6 @@
 
 **Bootcamp Klabin — Excel e Power BI Dashboards**
 
-[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://portfoliosantossergio.vercel.app)
-[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
 
 > 🔗 Repositório original do desafio: [power_bi_analyst — julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst)
 
