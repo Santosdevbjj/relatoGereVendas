@@ -5,8 +5,6 @@
 **Bootcamp Klabin — Excel e Power BI Dashboards**
 
 
-> 🔗 Repositório original do desafio: [power_bi_analyst — julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst)
-
 ---
 
 ## 1. Problema de Negócio
